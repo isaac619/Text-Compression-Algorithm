@@ -10,4 +10,4 @@ pip install google-generativeai
 Get a free gemini api key https://aistudio.google.com/app/apikey  
 export it as an environment variable  
 NOTE: I can provide you my own api key for grading if needed, I just did not want to include it in a public repo  
-run 'python compressionAlg.py'  
+run `python compressionAlg.py`  
